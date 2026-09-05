@@ -1,0 +1,7 @@
+{
+  "name": "Premvati Ladies Tailor",
+  "description": "Bespoke ladies' tailoring, bridal couture, and atelier management for Premvati Ladies Tailor, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
