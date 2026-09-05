@@ -150,7 +150,7 @@ export const Storefront: React.FC<StorefrontProps> = ({
                     Master Tailor Studio
                   </h4>
                   <p className="text-[11px] text-[#534343] mt-0.5">
-                    Mahavir Darshan, Malad West • Crafting perfection since 2012
+                    Mahavir Darshan, Malad West • Crafting perfection since 2000
                   </p>
                 </div>
               </div>

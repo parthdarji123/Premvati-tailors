@@ -15,7 +15,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
             Premvati Ladies Tailor
           </span>
           <p className="text-[13px] leading-relaxed text-[#534343]">
-            Bespoke womenswear, bridal couture, and personalized tailoring in the heart of Mumbai. Celebrating craftsmanship, hand-finished silhouettes, and custom cuts since 2012.
+            Bespoke womenswear, bridal couture, and personalized tailoring in the heart of Mumbai. Celebrating craftsmanship, hand-finished silhouettes, and custom cuts since 2000.
           </p>
           {/* Admin access removed from footer per request */}
         </div>
@@ -28,10 +28,6 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           <p className="text-[13px] leading-relaxed">
             <strong className="text-[#1b1c1c]">Studio 1 (Main Workshop):</strong><br />
             Mahavir Darshan, Goraswadi, S.V. Road, Malad West, Mumbai 400064
-          </p>
-          <p className="text-[13px] leading-relaxed mt-2">
-            <strong className="text-[#1b1c1c]">Consultation Suite:</strong><br />
-            Shop No. 4, Heritage Plaza, Linking Road, Bandra West, Mumbai 400050
           </p>
           <p className="text-[13px] font-medium text-[#400710] mt-1">
             Direct Line: +91 97696 55856
@@ -67,7 +63,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
       </div>
 
       <div className="max-w-[1280px] mx-auto px-4 sm:px-8 mt-12 pt-6 border-t border-[#d9c1c1]/50 flex flex-col sm:flex-row items-center justify-between gap-4 text-[12px] text-[#867273]">
-        <p>© 2024–2026 Premvati Ladies Tailor. All rights reserved.</p>
+        <p>Copyright 2000-present Premvati Ladies Tailor. All rights reserved.</p>
         <div className="flex items-center gap-6">
           <button onClick={() => onNavigate('gallery')} className="hover:underline">
             Couture Gallery
