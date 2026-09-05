@@ -215,9 +215,9 @@ export const INITIAL_OFFERS: SpecialOffer[] = [
   {
     id: 'off-website-1',
     title: 'Website Exclusive Offer',
-    subtitle: 'Use the code from the website at booking to get 10% off on your order.',
-    code: 'WEBSITE10',
-    discount: '10% OFF',
+    subtitle: 'Get ₹500 off when your total bill is ₹9,000 or more. Use the code at booking.',
+    code: 'TAILOR500',
+    discount: '₹500 OFF',
     validTill: '31 Dec 2026',
     active: true
   }
